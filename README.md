@@ -1,1 +1,4 @@
-# forAPI
+# Rest Query Achievement
+![Screenshot 2022-03-07 145425](https://user-images.githubusercontent.com/97620973/157124460-3bb50af8-70b1-41c2-888a-e663b516055d.png)
+https://web.postman.co/workspace/My-Workspace~28f80793-9298-45f2-8260-7633e78914f0/request/19910767-a1fb708e-fe48-441f-bfa0-01128dab4912
+For this assigment we had to create 5 queries from a space set up using storyblok's demo content using postman, The 5 i chose was Logo (Logo sets up the first logo you see on the webpage you open), Nav_Links (Nav_Links sets up multiple links in one nav bar so you can group more things together easier), Button Text (Pretty simple just makes it s you can label your buttons easier), Button_Links ( Like Nav_links execpt Button_Links uses only one link because most buttons will be single use), and lastly i had used Styles (Styles makes it easier to set up styles from everything from your texts to your images).
